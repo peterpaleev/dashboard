@@ -1,0 +1,11 @@
+@import url(./blocks/dashboard/dashboard.css);
+@import url(./blocks/content/content.css);
+@import url(./blocks/content/__scale/content__scale.css);
+@import url(./blocks/window/window.css);
+@import url(./blocks/upper/upper.css);
+@import url(./blocks/clouds/clouds.css);
+@import url(./blocks/clouds/__1/clouds__1.css);
+@import url(./blocks/clouds/__2/clouds__2.css);
+@import url(./blocks/clouds/__3/clouds__3.css);
+@import url(./blocks/precipiation/precipiation.css);
+@import url(./blocks/temp-line/temp-line.css);
