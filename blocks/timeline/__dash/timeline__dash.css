@@ -2,4 +2,5 @@
     width: 2px;
     height: 14px;
     background-color: coral;
+    border-radius: 0 0 6px 6px;
 }

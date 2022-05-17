@@ -1,0 +1,7 @@
+.time-hours__hour{
+    display: flex;
+    width: 18px;
+    justify-content: center;
+}
+
+.time-hours__hour:first-of-type
