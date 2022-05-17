@@ -1,0 +1,7 @@
+.padding{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    width: 96%;
+    height: 100%;
+}
