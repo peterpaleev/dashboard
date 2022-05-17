@@ -1,6 +1,6 @@
 .dashboard{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 340px;
     height: 170px;
 }
