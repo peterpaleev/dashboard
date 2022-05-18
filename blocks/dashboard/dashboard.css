@@ -1,6 +1,8 @@
 .dashboard{
+    position: relative;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     width: 340px;
     height: 170px;
+    font-family: "Inter", "Arial", sans-serif;
 }
