@@ -1,4 +1,4 @@
-.hover-layer__activator_place_clouds:hover + .hover-layer{
+.hover-layer__activator_place_upper:hover + .hover-layer__upper{
     border: 2px #00FFFF dashed;
     background-color: rgba(255, 255, 0);
     box-sizing: border-box;

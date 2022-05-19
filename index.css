@@ -1,6 +1,6 @@
 @import url(./blocks/dashboard/dashboard.css);
 @import url(./blocks/content/content.css);
-@import url(./blocks/content/__scale/content__scale.css);
+@import url(./blocks/temp-scale/temp-scale.css);
 @import url(./blocks/window/window.css);
 @import url(./blocks/upper/upper.css);
 @import url(./blocks/clouds/clouds.css);
@@ -22,4 +22,12 @@
 @import url(./blocks/hover-layer/__clouds/hover-layer__clouds.css);
 @import url(./blocks/hover-layer/hover-layer.css);
 @import url(./blocks/hover-layer/__activator/hover-layer__activator.css);
-@import url(./blocks/hover-layer/__activator/_place/_clouds/hover-layer__activator_place_clouds.css);
+@import url(./blocks/hover-layer/__activator/_place/hover-layer__activator_place_clouds.css);
+@import url(./blocks/hover-layer/__activator/_place/hover-layer__activator_place_precipiation.css);
+@import url(./blocks/hover-layer/__precipiation/hover-layer__precipiation.css);
+@import url(./blocks/hover-layer/__activator/_place/hover-layer__activator_place_upper.css);
+@import url(./blocks/hover-layer/__upper/hover-layer__upper.css);
+@import url(./blocks/hover-layer/__activator/_place/hover-layer__activator_place_window.css);
+@import url(./blocks/hover-layer/__window/hover-layer__window.css);
+@import url(./blocks/hover-layer/__activator/_place/hover-layer__activator_place_temp-scale.css);
+@import url(./blocks/hover-layer/__scale/hover-layer__temp-scale.css);
