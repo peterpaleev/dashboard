@@ -1,0 +1,7 @@
+
+.hover-layer__activator_place_clouds:hover + .hover-layer__clouds{
+    position:absolute;
+    margin: 0;
+    z-index: 2;
+    top: 90px;
+}

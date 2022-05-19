@@ -1,6 +1,6 @@
 .timeline__dash{
     width: 2px;
-    height: 14px;
+    height: 50%;
     background-color: coral;
-    border-radius: 0 0 6px 6px;
+    border-radius: 6px 6px 6px 6px;
 }
