@@ -1,0 +1,6 @@
+.hover-layer__activator{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    z-index: 2;
+}

@@ -1,0 +1,7 @@
+
+.hover-layer__activator_place_clouds:hover + .hover-layer__clouds{
+    background-image: url(../../../images/cloud.svg);
+    border: 2px #00FFFF dashed;
+    background-color: rgba(255, 255, 0);
+    box-sizing: border-box;
+}

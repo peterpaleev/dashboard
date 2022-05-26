@@ -1,0 +1,5 @@
+.hover-layer__activator_place_temp-scale:hover + .hover-layer__temp-scale{
+    border: 2px #00FFFF dashed;
+    background-color: rgb(4, 0, 255);
+    box-sizing: border-box;
+}
